@@ -1,17 +1,24 @@
 //Setup server
 
 const express = require('express');
-
 const app = express();
 
+
+
+
+
+
+
+// Our First Express App
+// Getting started
+// $ mkdir first-express-app
+// $ cd first-express-app
+// $ npm init -y
+// $ npm install express
+
 app.listen(3000, function () {
-  console.log('App on port 3000');
-})
-
-
-
-
-
+    console.log('App on port 3000');
+  })
 
 
 
