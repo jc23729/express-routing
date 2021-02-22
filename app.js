@@ -2,7 +2,7 @@
 
 const express = require('express');
 const app = express();
-
+const ExpressError = require('./expressError');
 // Requirements
 // The three base routes are /mean, /median, /mode. All accept GET requests
 
