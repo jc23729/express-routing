@@ -1,3 +1,10 @@
+// mean (average)
+// median (midpoint)
+// mode (most frequent)
+// The operations are invoked via one route per operation.
+
+
+
 /**
  * Build a frequency counter object from an array
  * @param {Array} arr any array
